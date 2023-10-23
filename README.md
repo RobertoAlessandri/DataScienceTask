@@ -9,8 +9,8 @@
 - [Contact](#contact)
 
 ## Requirements
-- requirements1.txt for Part 1
-- requirements2.txt for Part 2
+- requirements1_.txt for Part 1
+- requirements2_.txt for Part 2
 - Having downloaded the LibriSpeech dataset into a "LibriSpeech_ASR_corpus" folder
 - Having downloaded the wav2vec2.0 model
 The necessity of two different virtual environments is due to the fact that after finishing Part 1, I discovered that to use the wav2vec model it was needed a lower version of Python.
